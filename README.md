@@ -1,7 +1,8 @@
 # Knowledge is Power: Understanding Causality Makes Legal Judgment Prediction Models More Generalizable and Robust
 
 This repository contains the implementation of paper:<br> 
-__Knowledge is Power: Understanding Causality Makes Legal Judgment Prediction Models More Generalizable and Robust__ <br>
+__Rethinking the Development of Large Language Models from the Causal
+Perspective: A Legal Text Prediction Case Study__ <br>
 
 This codebase is based on the implementation of [lex-glue](https://github.com/coastalcph/lex-glue)
 
