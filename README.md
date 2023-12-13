@@ -1,4 +1,4 @@
-# Knowledge is Power: Understanding Causality Makes Legal Judgment Prediction Models More Generalizable and Robust
+# Rethinking the Development of Large Language Models from the Causal Perspective: A Legal Text Prediction Case Study
 
 This repository contains the implementation of paper:<br> 
 __Rethinking the Development of Large Language Models from the Causal
